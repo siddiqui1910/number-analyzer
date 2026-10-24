@@ -4,7 +4,7 @@ Takes an integer and reports whether it is even/odd, positive/negative/zero,
 divisible by 3 and 5, and whether it is a perfect square.
 
 ## How to run
-python main.py
+python number-analyzer.py
 
 ## What I learned
 - Nested conditionals for edge cases (negative numbers, zero)
